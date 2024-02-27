@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "8094",
+      "fullName": "Praveen",
+      "email": "pravnspraveen@gmail.com",
+      "password": "1234567890"
+    },
+    {
+      "id": "950a",
+      "fullName": "Praveen",
+      "email": "dthyh?@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "0cee",
+      "fullName": "Avinash",
+      "email": "aviashish63@gmail.com",
+      "password": "Astro06@tcs"
+    },
+    {
+      "id": "3742",
+      "fullName": "ben",
+      "email": "ben12@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "009a",
+      "fullName": "Praveen",
+      "email": "pravnspraveen@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "f201",
+      "fullName": "ben",
+      "email": "ben12@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "5dbc",
+      "fullName": "ben",
+      "email": "ben12@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "12b1",
+      "fullName": "Mani",
+      "email": "Mani@gmail.com",
+      "password": "12345"
+    }
+  ]
+}
